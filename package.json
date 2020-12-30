@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ElemeFE/vue-amap.git"
+    "url": "git+https://github.com/wenmei99/vue-amap.git"
   },
   "files": [
     "dist",
