@@ -1,7 +1,7 @@
 {
-  "name": "vue-amap",
+  "name": "weidian-vue-amap",
   "version": "0.5.10",
-  "description": "vue amap",
+  "description": "weidian vue amap",
   "main": "./dist/index.js",
   "sideEffects": false,
   "directories": {
