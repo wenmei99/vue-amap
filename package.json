@@ -1,5 +1,5 @@
 {
-  "name": "weidian-vue-amap-1",
+  "name": "weidian-vue-amap",
   "version": "0.5.10",
   "description": "weidian vue amap",
   "main": "./dist/index.js",
